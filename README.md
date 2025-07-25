@@ -58,7 +58,7 @@
 - **Crowdfunding Platform** ([Link](https://github.com/PrafulShinde45/Crowdfunding-Platform))  
   Full-stack MERN app with Stripe payments and user dashboards
 
-- **Real-time Chat Application** ([Link](https://github.com/PrafulShinde45/Real-Time-Chat-Application))  
+- **Real-time Chat Application** ([Live](https://realtime-chat-app-iq1x.onrender.com/login))  
   Chat app with Socket.io, JWT authentication, and real-time notifications
 
 - **Personal Portfolio** ([Live](https://portfolio-wf31.vercel.app/))  
